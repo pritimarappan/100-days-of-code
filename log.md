@@ -8,3 +8,6 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/nest-an-anchor-element-within-a-paragraph 
 
+### Day 1: June 6, 2017
+
+**Today's Progress**: 
