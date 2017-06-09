@@ -18,3 +18,11 @@
 **Link to work:** https://www.freecodecamp.com/challenges/use-an-id-attribute-to-style-an-element
 
 ### Day 2: June 8, 2017
+
+**Today's Progress**: Finished HTML5 & CSS
+
+**Thoughts:** Most HTML was familiar and wasn't sure what was new about HTML5. CSS was familiar and was a quick revision.
+
+**Link to work:** https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors
+
+
