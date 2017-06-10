@@ -26,3 +26,12 @@
 **Link to work:** https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors
 
 
+### Day 3: June 9, 2017
+
+**Today's Progress**: Halfway through Bootstrap
+
+**Thoughts:** Definitely a much cleaner method as compared to raw HTML.
+
+**Link to work:** https://www.freecodecamp.com/challenges/responsively-style-checkboxes
+
+
