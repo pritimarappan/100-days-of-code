@@ -35,3 +35,11 @@
 **Link to work:** https://www.freecodecamp.com/challenges/responsively-style-checkboxes
 
 
+### Day 4: June 10, 2017
+
+**Today's Progress**: Finished the rest of Bootstrap and jQuery
+
+**Thoughts:** Finally got the idea behind jQuery and lot more understanding behind the code I have worked on so far. To start with projects tomorrow.
+
+**Link to work:** https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page
+
