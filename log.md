@@ -43,3 +43,20 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page
 
+
+### Day 5: June 11, 2017
+
+**Today's Progress**: Built the tribute page
+
+**Thoughts:** It was relatively simple to get the content (not original content yet) and structure in place. The styling still needs work.
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
+### Day 6: June 13, 2017 (took a break yesterday)
+
+**Today's Progress**: Started with the portfolio page project. Wrapped my head around what needs to be done. Took time to break it down to smaller tasks and finished one task in its rudimentary form.
+
+**Thoughts:** This task seems really daunting. Getting the page structure in place is a relatively easy task (being a backend developer all these years). The styling is the hard part. 
+
+**Link to work:** https://codepen.io/priti2001/pen/KqgdRW
+
