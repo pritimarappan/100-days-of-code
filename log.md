@@ -60,3 +60,19 @@
 
 **Link to work:** https://codepen.io/priti2001/pen/KqgdRW
 
+### Day 7: June 14, 2017
+
+**Today's Progress**: Worked on the tribute page
+
+**Thoughts:** Progress is slow but I'm in it for the long haul
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
+### Day 8: June 15, 2017
+
+**Today's Progress**: Still on the tribute page
+
+**Thoughts:** Got the hang of scrollables and navbars.
+
+**Link to work:** https://codepen.io/priti2001/pen/KqgdRW
+
