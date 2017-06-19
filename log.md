@@ -72,7 +72,28 @@
 
 **Today's Progress**: Still on the tribute page
 
-**Thoughts:** Got the hang of scrollables and navbars.
+**Thoughts:** Got hang of scrollables and navbars.
 
 **Link to work:** https://codepen.io/priti2001/pen/KqgdRW
+
+### Day 9: June 16, 2017 (took a break)
+
+### Day 10: June 17, 2017
+
+**Today's Progress**: Added background to the navbar and got the box shadow as per viewing position
+
+**Thoughts:** No good tutorials for CSS. All tutorials are either too basic or  assume you know the basics. Or it is just a different style of writing I need to get used to. 
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
+### Day 11: June 18, 2017 (took a break :( )
+
+### Day 12: June 19, 2017
+
+**Today's Progress**: Working on getting the scrollable section working. Almost there.
+
+**Thoughts:** 
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
 
