@@ -97,3 +97,13 @@
 **Link to work:** https://codepen.io/priti2001/pen/JJXdRO
 
 
+### Day 13: June 20, 2017 (skipped :( )
+
+### Day 14: June 21, 2017
+
+**Today's Progress**: Scrollable is now working.
+
+**Thoughts:** 
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
