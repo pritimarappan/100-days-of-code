@@ -107,3 +107,11 @@
 
 **Link to work:** https://codepen.io/priti2001/pen/JJXdRO
 
+### Day 15 - day 18: June 25, 2017
+
+**Today's Progress**: Finally got the basic structure in place. Contact section still needs work
+
+**Thoughts:** 
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
