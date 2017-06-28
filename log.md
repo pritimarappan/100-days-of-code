@@ -115,3 +115,11 @@
 
 **Link to work:** https://codepen.io/priti2001/pen/JJXdRO
 
+### Day 19: June 26, 2017
+
+**Today's Progress**: Worked on the javascript challenges for a break from html/css
+
+**Thoughts:** Interesting to see JS's dynamically typed rules.
+
+**Link to work:** https://www.freecodecamp.com/challenges/assignment-with-a-returned-value
+
