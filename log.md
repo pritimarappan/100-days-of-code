@@ -123,3 +123,19 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/assignment-with-a-returned-value
 
+### Day 20: June 27, 2017
+
+**Today's Progress**: Did work, but missed out on logging it.
+
+### June 28 - Jul 4 2017
+**Long weekend vacation**
+
+
+### Day 21: Jul 5, 2017
+
+**Today's Progress**: Javascript objects
+
+**Thoughts:** JS objects have confusing rules for the . and the [] operator for access.
+
+**Link to work:** https://www.freecodecamp.org/challenges/using-objects-for-lookups
+
