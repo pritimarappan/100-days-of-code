@@ -139,3 +139,11 @@
 
 **Link to work:** https://www.freecodecamp.org/challenges/using-objects-for-lookups
 
+### Day 22: Jul 6, 2017
+
+**Today's Progress**: Web portfolio
+
+**Thoughts:** vertical-align: center isn't working as expected. Need to dig into this more.
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
