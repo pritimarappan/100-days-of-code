@@ -147,3 +147,22 @@
 
 **Link to work:** https://codepen.io/priti2001/pen/JJXdRO
 
+### Day 23 & 24: Jul 7-8, 2017
+
+**Today's Progress**: Continued with Javascript
+
+**Link to work:** Finished Basic Javascript
+
+### Day 25: Jul 9, 2017
+
+**Today's Progress**: Day off
+
+
+### Day 26: Jul 10, 2017
+
+**Today's Progress**: Web portfolio completed.
+
+**Thoughts**: It was fun when things started working. Spent an hour without realizing the time.
+
+**Link to work:** https://codepen.io/priti2001/pen/JJXdRO
+
