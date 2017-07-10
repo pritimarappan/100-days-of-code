@@ -160,9 +160,9 @@
 
 ### Day 26: Jul 10, 2017
 
-**Today's Progress**: Web portfolio completed.
+**Today's Progress**: Web portfolio completed. Object oriented & functional programming completed too.
 
-**Thoughts**: It was fun when things started working. Spent an hour without realizing the time.
+**Thoughts**: It was fun when things started working for the portfolio. Spent an hour without realizing the time.
 
 **Link to work:** https://codepen.io/priti2001/pen/JJXdRO
 
