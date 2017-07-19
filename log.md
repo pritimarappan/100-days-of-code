@@ -172,3 +172,11 @@
 
 **Thoughts**: A lot simpler in high level language which provides all kinds of built-in functions.
 
+### Jul 12 -  Jul 16, 2017 OoO
+
+### Day 27: Jul 17, 2017
+**Today's Progress**: String & array manipulations
+
+
+### Day 28: Jul 17, 2017
+**Today's Progress**: String & array manipulations
